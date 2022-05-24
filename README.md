@@ -1,6 +1,6 @@
 # DCGAN
 
-Project requirements ##
+## Project requirements 
 
 Design and implement in group work (max. 3 persons) an artificial neural network (ANN) as a machine learning model for a dataset and a use case of your
 of your choice. Choose a suitable architecture and train the model with the training data. Also, adjust the hyperparameters of the model
