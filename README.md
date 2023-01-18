@@ -1,5 +1,10 @@
 # DCGAN
 
+## Authors
+*  Kevin Kammler
+*  Tomislav Pree
+*  Christian Loor 
+
 ## Project requirements 
 
 Design and implement in group work (max. 3 persons) an artificial neural network (ANN) as a machine learning model for a dataset and a use case of your
